@@ -7,7 +7,9 @@ It generates:
 - Lists of products and brands losing money
 
 ## How to Run
-only have to click to execute the entire code
+1. Click on BIBITOR_BASE_LABS.ipynb
+2. Once opened, click on the button (open in colab) located at the top left of the code.
+3: 3: Then you have to click on the top left that says run all the code and the process will begin
 ## Output
 # The entire solution of the csv files is generated when the code is finished in the /content/final_reports folder and that they
 6 CSV files:
